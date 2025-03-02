@@ -33,4 +33,4 @@ No meu projeto, obtive um modelo funcional que recomenda livros semelhantes com 
 ## Referências
 
 - [freeCodeCamp](https://github.com/freeCodeCamp)  
-- [Mephistopheles-0](https://github.com/Mephistopheles-0)
+- [zakaria-narjis](https://github.com/zakaria-narjis)
