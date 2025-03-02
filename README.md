@@ -26,8 +26,6 @@ A função **get_recommends("The Queen of the Damned (Vampire Chronicles (Paperb
 ### Pré-processamento dos dados:
 Para garantir uma análise significativa, foram removidos os usuários com menos de 200 avaliações e livros com menos de 100 avaliações.
 
-Este projeto me proporcionou uma experiência significativa no trabalho com **K-Nearest Neighbors** e **recomendação de sistemas**, aumentando minha confiança em projetos de aprendizado de máquina e me motivando a seguir explorando esse campo.
-
 ## Resultado
 
 No meu projeto, obtive um modelo funcional que recomenda livros semelhantes com base na distância de similaridade, criando uma experiência personalizada para os usuários.
