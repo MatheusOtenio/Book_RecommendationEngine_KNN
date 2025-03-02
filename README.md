@@ -31,8 +31,8 @@ Este projeto me proporcionou uma experiência significativa no trabalho com **K-
 ## Resultado
 
 No meu projeto, obtive um modelo funcional que recomenda livros semelhantes com base na distância de similaridade, criando uma experiência personalizada para os usuários.
-
+![Gráfico](RegressaoLinear.png)
 ## Referências
 
 - [freeCodeCamp](https://github.com/freeCodeCamp)  
-- [zakaria-narjis](https://github.com/zakaria-narjis)
+- [Mephistopheles-0](https://github.com/Mephistopheles-0)
